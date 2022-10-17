@@ -1,0 +1,16 @@
+P:\Digital\VS\20mgarrod\Magic8Ball!\Magic8Ball!\bin\Debug\Magic8Ball!.exe.config
+P:\Digital\VS\20mgarrod\Magic8Ball!\Magic8Ball!\bin\Debug\Magic8Ball!.exe
+P:\Digital\VS\20mgarrod\Magic8Ball!\Magic8Ball!\bin\Debug\Magic8Ball!.pdb
+P:\Digital\VS\20mgarrod\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.csproj.AssemblyReference.cache
+P:\Digital\VS\20mgarrod\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.csproj.SuggestedBindingRedirects.cache
+P:\Digital\VS\20mgarrod\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.csproj.CoreCompileInputs.cache
+P:\Digital\VS\20mgarrod\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.exe
+P:\Digital\VS\20mgarrod\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.pdb
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\Magic8Ball!\Magic8Ball!\bin\Debug\Magic8Ball!.exe.config
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\Magic8Ball!\Magic8Ball!\bin\Debug\Magic8Ball!.exe
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\Magic8Ball!\Magic8Ball!\bin\Debug\Magic8Ball!.pdb
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.csproj.AssemblyReference.cache
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.csproj.SuggestedBindingRedirects.cache
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.csproj.CoreCompileInputs.cache
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.exe
+C:\Users\20mgarrod\OneDrive - Ron Dearing UTC\Level 3 BTEC Computing\Unit 1 - Principles of Computer Science\Visual Studio\Magic8Ball!\Magic8Ball!\obj\Debug\Magic8Ball!.pdb
